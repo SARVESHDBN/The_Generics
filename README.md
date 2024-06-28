@@ -1,0 +1,1 @@
+This project is a website dedicated to the Generic band, featuring an about section detailing the band's background. Users can purchase albums and merchandise, and stay updated on the band's latest tours and music launches through the site.
